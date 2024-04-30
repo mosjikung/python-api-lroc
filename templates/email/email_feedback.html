@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="th">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@300;400;600&display=swap" rel="stylesheet" />
+  </head>
+  <body style="background:#ffffff;font-family:'IBM Plex Sans Thai',sans-serif;font-size:16px;min-height:100vh;margin:0;box-sizing:border-box">
+    <div style="margin: 0 auto; max-width: 100%; padding: 34px 59px 20px 0px; box-sizing: border-box; border-radius: 10px; ">
+      <div style="color: #343A40; font-size: 16px; font-weight: 600; margin-bottom: 12px">ขอแจ้งผลการดำเนินงานการแจ้งเรื่องของท่านโดยมีรายละเอียด ดังนี้</div>
+      <div style="color: #343A40; font-size: 16px; font-weight: 600; margin-bottom: 12px">เลขที่ {{case_id}}</div>
+      <div style="color: #343A40; font-size: 16px; margin-bottom: 12px">
+        เรียน คุณลูกค้า ทางเราต้องขออภัยในความไม่สะดวกในการให้บริการมา ณ โอกาสนี้<br>
+        จากปัญหา {{description_old}}<br>
+        <div style="color: #343A40; font-size: 16px;">ผลการดำเนินงาน:</div>
+        {{description}}<br>
+        <img src="{{user_picture}}" style="width: 100%" alt="" />
+      </div>
+      <div style="font-size: 16px; color: #6C757D;">หากคุณพบปัญหาใด ๆ โปรดติดต่อฝ่ายบริการลูกค้า: <label><a href="mailto:support@nrc.com"  style="color:#e02020; text-decoration: none;" target="_blank">support@nrc.com</a></label></div>
+      
+    </div>
+  </body>
+</html>

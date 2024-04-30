@@ -1,0 +1,229 @@
+Time = 2023-10-05 18:04:04: Sta_station update path image from minio success 
+Time = 2023-10-05 18:04:04: Sta_station_schedule update path image from minio success 
+Time = 2023-10-05 18:04:04: Sta_station_period update path image from minio success 
+Time = 2023-10-05 18:04:04: Sta_station_period update path image from minio success 
+Time = 2023-10-05 18:04:04: Sta_station_playlist update path image from minio success 
+Time = 2023-10-05 18:04:04: Sta_partner update path image from minio success 
+Time = 2023-10-05 18:04:04: Sta_message_files update path image from minio success 
+
+
+Time = 2023-10-05 18:04:53: Sta_station update path image from minio success 
+Time = 2023-10-05 18:04:53: Sta_station_schedule update path image from minio success 
+Time = 2023-10-05 18:04:53: Sta_station_period update path image from minio success 
+Time = 2023-10-05 18:04:53: Sta_station_period update path image from minio success 
+Time = 2023-10-05 18:04:53: Sta_station_playlist update path image from minio success 
+Time = 2023-10-05 18:04:53: Sta_partner update path image from minio success 
+Time = 2023-10-05 18:04:53: Sta_message_files update path image from minio success 
+
+
+Time = 2023-10-20 14:06:53: Sta_message_files update path image from minio success 
+
+
+Time = 2023-10-20 14:42:47: Sta_station_schedule update path image from minio success 
+Time = 2023-10-20 14:54:51: Sta_stations update path image from minio success 
+
+
+Time = 2023-10-20 15:00:22: Sta_station_period update path image from minio success 
+
+
+Time = 2023-10-20 15:01:11: Sta_station_period update path image from minio success 
+
+
+Time = 2023-10-20 15:01:59: Sta_station_period update path image from minio success 
+
+
+Time = 2023-10-20 15:08:51: Members update path image from minio success 
+
+
+Time = 2023-10-20 15:10:57: Users update path image from minio success 
+
+
+Time = 2023-11-08 11:55:10: Sta_station_playlist update path image from minio success 
+
+
+Time = 2023-11-08 11:58:07: Sta_partner update path image from minio success 
+
+
+Time = 2023-11-08 11:58:35: Sta_message_files update path image from minio success 
+
+
+Time = 2023-11-14 15:29:04.314618: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 15:32:40.416302: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 15:36:00.056309: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 15:39:33.621970: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 15:41:20.710849: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 15:43:19.754880: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 15:49:18.109610: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 15:50:27.365770: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 15:50:43.212020: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 15:50:51.919798: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 15:51:00.699921: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 16:18:14.365552: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 16:18:28.038753: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 16:22:04.730799: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 16:22:25.583778: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 16:26:40.424017: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 16:26:52.774784: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 16:26:54.587431: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 16:26:55.800010: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 16:26:56.935922: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 16:27:05.024511: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 16:27:06.124958: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 16:33:27.937978: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 16:34:10.523267: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 16:34:12.241181: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 16:34:14.040400: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 16:34:15.916142: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 17:26:58: Sta_file_medias update path image from minio success 
+
+
+Time = 2023-11-14 17:37:41: Sta_file_medias update path image from minio success 
+
+
+Time = 2023-11-14 18:15:07.219852: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 18:20:54.345664: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 18:22:30.208830: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 18:23:12.373588: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 18:24:12.434259: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 18:24:15.963737: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 18:24:19.561005: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 18:30:06.906768: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 18:34:30.005272: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 18:36:33.824491: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 19:02:35.615792: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 19:04:56.364352: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 19:05:17.858605: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-14 19:27:14.302210: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-15 14:27:09: Sta_file_medias update path image from minio success 
+
+
+Time = 2023-11-15 14:29:04: Sta_file_medias update path image from minio success 
+
+
+Time = 2023-11-15 14:41:11: Sta_message_files update path image from minio success 
+
+
+Time = 2023-11-15 14:41:28: Sta_station_playlist update path image from minio success 
+
+
+Time = 2023-11-15 14:42:38: Sta_file_medias update path image from minio success 
+
+
+Time = 2023-11-15 14:56:25: Sta_channel update path image from minio success 
+
+
+Time = 2023-11-16 11:55:48: Sta_station_period update path image from minio success 
+
+
+Time = 2023-11-16 16:30:16: Sta_station_playlist update path image from minio success 
+
+
+Time = 2023-11-16 16:34:05: Sta_station_playlist update path image from minio success 
+
+
+Time = 2023-11-16 17:24:54: Sta_station_period update path image from minio success 
+
+
+Time = 2023-11-16 17:25:30: Sta_station_schedule update path image from minio success 
+
+
+Time = 2023-11-23 13:39:38.446245: Sta_file_medias update bpm from minio success 
+
+
+Time = 2023-11-24 16:10:54: Sta_channel update path image from minio success 
+
+
+Time = 2023-11-27 15:05:16: Sta_channel update path image from minio success 
+
+
+Time = 2023-11-27 15:05:59: Sta_channel update path image from minio success 
+
+
+Time = 2024-02-12 13:38:11: Sta_stations update path image from minio success 
+
+
+Time = 2024-02-12 13:38:21: Sta_station_schedule update path image from minio success 
+
+
